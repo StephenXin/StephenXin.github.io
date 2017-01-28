@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>何乐而不为</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://stephenxtech.com/"/>
+  <updated>2017-01-25T14:18:22.515Z</updated>
+  <id>http://stephenxtech.com/</id>
+  
+  <author>
+    <name>StephenXin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://stephenxtech.com/2017/01/25/hello-world/"/>
+    <id>http://stephenxtech.com/2017/01/25/hello-world/</id>
+    <published>2017-01-25T14:18:22.510Z</published>
+    <updated>2017-01-25T14:18:22.515Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Excel 小技巧 持续更新</title>
+    <link href="http://stephenxtech.com/2016/10/19/Excel%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>http://stephenxtech.com/2016/10/19/Excel实用技巧/</id>
+    <published>2016-10-19T05:56:10.000Z</published>
+    <updated>2017-01-28T12:26:25.610Z</updated>
+    
+    <content type="html"><![CDATA[<hr>
+<h1 id="Excel使用小技巧，持续更新…"><a href="#Excel使用小技巧，持续更新…" class="headerlink" title="Excel使用小技巧，持续更新…"></a>Excel使用小技巧，持续更新…</h1><p>[TOC]</p>
+<h2 id="1、Excel“冻结窗格”"><a href="#1、Excel“冻结窗格”" class="headerlink" title="1、Excel“冻结窗格”"></a>1、Excel“冻结窗格”</h2><h3 id="直接冻结首行首列"><a href="#直接冻结首行首列" class="headerlink" title="直接冻结首行首列"></a>直接冻结首行首列</h3><p>无需其他操作，直接找到冻结窗格，选择冻结首行首列即可<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/36952164.jpg" alt=""></p>
+<h3 id="同时冻结首行首列"><a href="#同时冻结首行首列" class="headerlink" title="同时冻结首行首列"></a>同时冻结首行首列</h3><p>这下尴尬了，选了冻结首列，发现冻结首行效果没了，反过来也一样<br>有招，如下图鼠标选中B3单元格，选择冻结拆分窗格（这样，可以冻结B3左边所有列和上方所有行，其他单元格方法效果同），OK，自己试试看效果吧！<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/80628158.jpg" alt=""></p>
+<h3 id="冻结前两行"><a href="#冻结前两行" class="headerlink" title="冻结前两行"></a>冻结前两行</h3><p>方法同上，只不过这时候就选中A3呗</p>
+<h2 id="2、Excel-中的颜色要怎么搭配，视觉上更能接受且区分度高？"><a href="#2、Excel-中的颜色要怎么搭配，视觉上更能接受且区分度高？" class="headerlink" title="2、Excel 中的颜色要怎么搭配，视觉上更能接受且区分度高？"></a>2、Excel 中的颜色要怎么搭配，视觉上更能接受且区分度高？</h2><p>无论numbers还是excel，设计表单样式一定是遵守“三色原则”：首行、首列最深，间行间列留白。</p>
+<p>为什么不是四色原则、五色原则或者六色原则呢？因为简单地从配色方案的角度出发，三色原则能最大范围地适用”对比色配色方案“、”互补色配色方案“或者”邻近色配色方案“。其次最主要的原因是省油墨……下面的案例都是基于数字版本的发布，但是办公室绝大部分企业都是黑白打印+双面利用以节省成本，so……颜色太复杂打印出来的资料很难看。如果只有三色，即白色+2主色，另外2个主色会以不同灰度的形式印刷出来。尽管如此可能还是会影响阅读。这点要切记。</p>
+<p>下图为苹果 iwork的numbers自带样式，饼图一类的统计图用色系根据明度递减做配色；表单依旧是三色配色方案。当然也可以根据实际需要进行多种颜色的搭配，只需要符合配色规律即可，有设计基础的朋友应该都能轻松掌握。<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/7613987.jpg" alt=""></p>
+<p>在实际应用中这样的表单可以实现的很美观、很正规而且很易于阅读。这就是为什么要错行配色的原因。<a href="http://Blueidea.com" target="_blank" rel="external">蓝色理想</a> 有许多类似的交互设计理论，可以自行搜索。在我公司的表单中，我就灵活运用配色方案。你会发现如果表单中有必须重复信息的行，那么如果没有制作色差的话很容易看走眼，而且会较快的眼睛疲劳。所以很简单的改动就能让你的表单显得更为友好。</p>
+<p><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/95566525.jpg" alt=""></p>
+<p>中文同样适用这个原理，如果你认为中文应用时看着别扭，那只是审美疲劳导致的，不用太刻意地去修改表单的布局。但是中文和英文制表最大的难点，在于字体，这个是另外回事啦，这里不多说。下图为中文版的表单，一样可以很友好。</p>
+<h3 id="三色表格简单应用方案"><a href="#三色表格简单应用方案" class="headerlink" title="三色表格简单应用方案"></a>三色表格简单应用方案</h3><p><strong>关于奇偶行间自动换色的设置，需要用到【套用表格样式】，具体操作如下：</strong><br>【样式】-【套用表格格式】-【新建表格样式】-设置【第一行条纹】【第二行条纹】颜色-【套用表格样式】<br>其中，【第一行条纹】为偶数行（包含标题行算起，即第二行），【第二行条纹】为奇数行。如果不设置标题行则反之。点击后选【格式】，然后设置填充颜色即可。</p>
+<p><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/40203289.jpg" alt=""></p>
+<p>转载自知乎<br>作者：Energetic Hydra<br>链接：<a href="https://www.zhihu.com/question/21702667/answer/24661340" target="_blank" rel="external">https://www.zhihu.com/question/21702667/answer/24661340</a></p>
+<h2 id="3、Excel-有哪些可能需要熟练掌握而很多人不会的技能？"><a href="#3、Excel-有哪些可能需要熟练掌握而很多人不会的技能？" class="headerlink" title="3、Excel 有哪些可能需要熟练掌握而很多人不会的技能？"></a>3、Excel 有哪些可能需要熟练掌握而很多人不会的技能？</h2><h3 id="排版篇"><a href="#排版篇" class="headerlink" title="排版篇"></a>排版篇</h3><ul>
+<li>给他人发送excel前，请尽量将光标定位在需要他人首先阅览的位置，例如Home位置（A1），例如结论sheet，长表尽量将位置定位到最顶端</li>
+<li>有必要的时候请冻结首行；没必要但可追究的内容，可以隐藏处理</li>
+<li>行标题、列标题加粗，适当处理文字颜色、填充颜色，利人利己，可参见：Excel 中的颜色要怎么搭配，视觉上更能接受且区分度高？ - 设计</li>
+<li>占用空间比较小的表格，可以放置在左上角，但留空A列和1行，并给表格加上合适的框线，观感很不错哦~</li>
+<li>同类型数据的行高、列宽、字体、字号，求你尽量一致，非要逼死强迫症吗！</li>
+<li>定义好比较标准的格式，例如百分比预留几位小数，手机号的列宽设置足够，时间显示尽量本土化…</li>
+<li>不要设置其他电脑没有的字体，除非这个表格就在这一台电脑使用…<h3 id="操作篇"><a href="#操作篇" class="headerlink" title="操作篇"></a>操作篇</h3></li>
+<li>Alt+Enter在表格内换行，楼上有提到</li>
+<li>Ctrl+Shift+上/下，选择该列所有数据，当然加上左右可选择多列</li>
+<li>Ctrl+上/下，跳至表格最下方</li>
+<li>Ctrl+C/V，不仅仅复制表格内容，也可以复制格式和公式！</li>
+<li>Ctrl+D/R，复制上行数据/左列数据</li>
+<li>Ctrl+F/H的查找、替换，点击“选项”，可以替换某种格式等等，另一片天地有木有！</li>
+</ul>
+<p><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/43681307.jpg" alt=""></p>
+<ul>
+<li>F4，对，你没看错，就是F4！重复上一步操作，比如，插入行、设置格式等等频繁的操作，F4简直逆天！</li>
+<li><p>（分号后面那个） 比如输入网址的时候，一般输入完会自动变为超链接，在网址前输入’就解决咯<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/68151757.jpg" alt=""></p>
+</li>
+<li><p>复制，选择性粘贴里面有几个非常好用的——仅值，转置（个人推荐用transpose公式）</p>
+</li>
+</ul>
+<p><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/89047487.jpg" alt=""></p>
+<ul>
+<li>公式里面切换绝对引用，直接点选目标，按F4轮流切换，例如A1，$A$1，$A1，A$1</li>
+</ul>
+<h3 id="公式篇"><a href="#公式篇" class="headerlink" title="公式篇"></a>公式篇</h3><ul>
+<li>if、countif、sumif、countifs、sumifs，这几个一起学，用于条件计数、条件求和</li>
+<li>max、min、large，这几个一起，用于简单的数据分析</li>
+<li>rand、randbetween，这俩一起，用于生成随机数，也可以用于生成随机密码（用rand配合char可生成中英文大小写随机的）</li>
+<li>定位类型的函数：MID、SEARCH、LEN、LEFT、RIGHT一起学吧，简单但异常实用</li>
+<li>四舍五入个人偏好用round函数，举个简单例子，一列数据，2.04、2.03并求和，显示保留1位小数，你会在界面上看到2.0、2.0，求和却是4.1，表格打印出来会比较让人难理解</li>
+<li>subtotal：用于对过滤后的数据进行汇总分析</li>
+<li>sumproduct：返回一个区域的乘积之和，不用A1*B1之后再下拉再求和</li>
+<li>Vlookup函数，这个不多说了，神器；另外推荐lookup函数：LOOKUP(1,0/(条件),查找数组或区域)</li>
+<li>offset函数，常用于配合其他函数使用，例如想将10*20的表中的每行复制成3行按原顺序变成30行：=OFFSET($A$1,INT((ROW(A1)-1)/3),COLUMN(A1)-1,1,1) 下拉，由于不用到列，所以等同于=OFFSET($A$1,INT((ROW(A1)-1)/3),0)，我当初是这么做笔记的….：=（A1，向下偏移（向下取整（行数-1）/3），向右偏移0）</li>
+<li>text，例如19880110 text（A1，”0-00-00”)，转为1988-01-10，用法很多</li>
+<li>weekday，让你做时间计划表什么的时候，把日期转为“星期X”</li>
+<li>column（目标单元格），返回目标单元格所在列数，有时候真的很好用…还有 @黄老邪推荐的columns</li>
+<li>transpose（目标区域），神奇的转置，把行变成列，把列变成行…</li>
+<li><p>&amp;，可在目标单元格后面增加某些字符，偶尔用（我这种强迫患者用的是concatenate公式，我特么有病！）<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/40172440.jpg" alt=""></p>
+</li>
+<li><p>数组，虽然复杂，但是有的公式配上数组简直爽爆</p>
+</li>
+<li>多百度，例如曾经碰到一个难题，把X分X秒，转为X秒，例如172分52秒，百度半天得到的公式：=IF( IFERROR( FIND( “分”, $E2 ), 0) &gt; 0, LEFT( $E2, FIND( “分”, $E2 ) - 1 ) <em> 60 + IFERROR( MID( $E2, FIND( “分”,$E2 ) + 1, FIND( “秒”, $E2 ) - FIND( “分”, $E2 ) - 1 ), 0 ), LEFT( $E2, FIND( “秒”, $E2 ) - 1 ) </em> 1 ） 度娘很厉害的（评论里面直接用=TEXT(SUBSTITUTE(SUBSTITUTE(“00:”&amp;A1,”秒”,””),”分”,”:”),”[s]”)，把文本转为时分秒的标准格式再转秒，确实是更好的方法）</li>
+</ul>
+<h3 id="图表篇"><a href="#图表篇" class="headerlink" title="图表篇"></a>图表篇</h3><ul>
+<li><p>不同的场景请用不同的图，转个非常精髓的图：<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/57573910.jpg" alt=""></p>
+</li>
+<li><p>数据透析表、数据透析图，嗯嗯，推荐的人太多了…</p>
+</li>
+<li><p>图表设计——布局，灵活运用好多类数据时的“次坐标轴”<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/53019738.jpg" alt=""></p>
+</li>
+<li>选择数据——右键——更改图标类型，灵活在一张表上结合起来柱状图和折线图<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/34750338.jpg" alt=""></li>
+</ul>
+<h3 id="技巧篇"><a href="#技巧篇" class="headerlink" title="技巧篇"></a>技巧篇</h3><ul>
+<li><p>数据——分列，将列内的数据拆分成多列，比如“XXX省XXX市”，拆成省、市两列，“XX小时XX分钟”拆成时、分两列，可以按照宽度、文本、标点等作为界定进行拆分，非常多的场景会使用到，请优先学会…<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/65582701.jpg" alt=""></p>
+</li>
+<li><p>如果你不是靠excel吃饭，请不用那么geek，而是学会excel的逻辑——配合简单的公式、排序、替换、if等全局操作能得出的结果，不一定非要用一个长公式然后下拉，举例：<br><strong>如何将无规律的一列上下翻转？</strong><br>——创建一列，标上1、2、3……，下拉，以该列为主排序，改升序为降序，扩展目标列，得到结果，之后可以删掉创建的辅助排序列</p>
+</li>
+</ul>
+<p><strong>如何将目标区域的每一行数据下面插入一条空行？</strong><br>——创建一列，标上1、2、3……，下拉，下面空白行标上1.5、2.5、3.5……下拉，同理排序~Tada~<br>条件格式——突出显示单元格规则，里面的“重复值”，在实时录入和检查标记时很实用<br>在条件允许的情况下，升级到office 2013吧，excel 2013比2010好到爆啊！比如新增的sumifs、averageifs等多条件if，比如选择一个区域，右下角小标“快速分析”自动生成数据条、色阶、柱形图、汇总图、透视表、折线图等等啊，秒中出啊有木有！（诶，好像哪里不对的样子）</p>
+<p><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/99853618.jpg" alt=""></p>
+<h3 id="插件篇"><a href="#插件篇" class="headerlink" title="插件篇"></a>插件篇</h3><ul>
+<li>Power Map ：在线地图+在线演示+制作视频，随便来个中国壕热力图：</li>
+<li><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/29441602.jpg" alt=""></li>
+<li></li>
+</ul>
+<p>当然，也有柱状图：</p>
+<p><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/39319196.jpg" alt=""></p>
+<ul>
+<li>Power View：带可视化交互效果的图表，很适合演示<br><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/68019098.jpg" alt=""></li>
+</ul>
+<p>默认配色就很不错，而且演示的时候点击时会直接按你点击的类型帮你显示对应的数据（例如上面的堆积柱状图）</p>
+<ul>
+<li>Power Query：这个用法很多，我主要用于以下两点：<ol>
+<li>在线Web抓取：不需要学会某个编程语言也能爬虫+分析一些简单数据，随便举个例子输入新浪股票的网址，它自动帮忙抓取到N个表，我随便打开一个：</li>
+</ol>
+</li>
+</ul>
+<p><img src="http://of3g71lxr.bkt.clouddn.com/16-10-19/58377579.jpg" alt=""></p>
+<ol>
+<li><p>连接数据库：不需要学会SQL语法也能查询+分析数据库内的数据，这个就不方便截图了…<br>打比方说，常见的 select * from … where xxx = xxx and xxx&gt;xxx group by xxx这种sql语法查询的内容，可以在Power Query中直接通过点击、筛选等操作就列出来</p>
+<ul>
+<li><p>各种excel工具箱，这个不多介绍了，不常用，也就不打广告了，但是挺适合部分长期使用excel的职场人士使用</p>
+</li>
+<li><p>SmartArt也是一大神器，我终于不用在Ai或者PPT上作图再粘过来了…</p>
+</li>
+</ul>
+</li>
+</ol>
+<h3 id="其它篇"><a href="#其它篇" class="headerlink" title="其它篇"></a>其它篇</h3><ul>
+<li>不会写宏没关系，要懂得怎么使用别人的宏（自行百度“excel宏大全”吧~），怎么保存xlsm，怎么录制宏。当你把机械化的一套操作通过录制宏实现，并用xlsm配合auto_open自动操作，眼看表格自动化操作，在两秒内给你返回原来每天固定要做十几分钟的数据分析结果时，那个鸡皮疙瘩（蔡健雅腔调…）</li>
+<li>有时间推荐泡泡excel的论坛，excelhome什么的，神人太多了….</li>
+<li>非常推荐给初学者、中阶以及“中介”的视频：文库课程，哪怕前几个视频，看标题简单到爆，但中间真的有很多操作上的亮点不为普通人自学所知~</li>
+<li>excel满足不了你，又懂编程，想秀逼格的，请右转百度 SPSS</li>
+</ul>
+<p>✎✎✎✎✎✎✎✎✎ 出题的分割线必须华丽✎✎✎✎✎✎✎✎✎<br>额，我都写那么多了，出个题又不会死——</p>
+<p>【A列】<br>a<br>a<br>a<br>a<br>b<br>b<br>b<br>c<br>c<br>d<br>d<br>d<br>d<br>e<br>……<br>……<br>……</p>
+<p>每行仅一个数据，无法准确知道有多少个a，多少个b，多少个c……<br>请【仅用一个公式】统计出——【A列中不同单元格的个数】，比如a、b、c、d，算4个<br>请注意，只允许公式，其他操作均不允许，因为这个题不是为了结果，而是考excel逻辑的…<br>（01/30 ：擦，这么快就被解答，说好的面子呢！）</p>
+<p>【后记】</p>
+<ol>
+<li><p>关于答案<br>excel是一个很庞大很完整的“系统”，各行各业用处定然不尽相同，所以答案肯定仁者见仁智者见智，我也只是抛砖引玉，说说自己在个人工作上的经验</p>
+</li>
+<li><p>关于疑问求解<br>excel里的帮助（F1）非常之有用，输入关键词就会提供给你需要的信息，请常用！个人推荐是——基础操作找百度，公式函数找F1，偏具体的需求找excelhome</p>
+</li>
+<li><p>抛玉…<br>会计中都有哪些必须熟练掌握的 Excel 公式？分别用于哪些场合？熟练是指到什么程度？ - 调查类问题<br>Excel 中的颜色要怎么搭配，视觉上更能接受且区分度高？ - 设计<br>楼下Yumeng Guo的图表系列，表示已收藏…</p>
+</li>
+<li><p>关于学习与书籍<br>引用 @谌斌回答的如何快速有效地提高 Excel 技能水平？——<br>我觉得提高Excel水平最重要的是某种“刺激”：<br>你需要交一个报告；<br>你需要做一个分布图；<br>你需要做数据去重；<br>你需要做数据排序；<br>你需要做数据统计；<br>这种“刺激”唯一不能是：你想学Excel。个人非常感同身受，我所有的学习均是受上面所提的各种“刺激”，所以假如让我推荐学习excel的书籍，我怕误人子弟…不过，我个人还是比较倾向在有一定基础之后补充完善的干货…</p>
+</li>
+</ol>
+<h3 id="转载声明"><a href="#转载声明" class="headerlink" title="转载声明"></a>转载声明</h3><p>作者：罗翔<br>链接：<a href="https://www.zhihu.com/question/21758700/answer/21687597" target="_blank" rel="external">https://www.zhihu.com/question/21758700/answer/21687597</a><br>来源：知乎<br>著作权归作者所有，转载请联系作者获得授权。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      Excel实用小技巧持续更新中...冻结窗格，表格配色，实用而不为人知的技巧...
+    
+    </summary>
+    
+      <category term="技能" scheme="http://stephenxtech.com/categories/%E6%8A%80%E8%83%BD/"/>
+    
+    
+      <category term="excel" scheme="http://stephenxtech.com/tags/excel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 博客发文章基本流程</title>
+    <link href="http://stephenxtech.com/2016/10/13/Hexo-%E5%8D%9A%E5%AE%A2%E5%8F%91%E6%96%87%E7%AB%A0%E6%AD%A5%E9%AA%A4%E8%AF%A6%E8%A7%A3/"/>
+    <id>http://stephenxtech.com/2016/10/13/Hexo-博客发文章步骤详解/</id>
+    <published>2016-10-13T09:00:07.000Z</published>
+    <updated>2017-01-28T12:26:23.909Z</updated>
+    
+    <content type="html"><![CDATA[<hr>
+<h2 id="hexo发文章步骤及格式"><a href="#hexo发文章步骤及格式" class="headerlink" title="hexo发文章步骤及格式"></a>hexo发文章步骤及格式</h2><h3 id="1-利用hexo命令新建文章"><a href="#1-利用hexo命令新建文章" class="headerlink" title="1.利用hexo命令新建文章"></a>1.利用hexo命令新建文章</h3><p>在hexo根目录执行以下命令：<br>    hexo new “文章名字”</p>
+<h3 id="2-利用notepad-编辑文章front-matter"><a href="#2-利用notepad-编辑文章front-matter" class="headerlink" title="2.利用notepad++编辑文章front-matter"></a>2.利用notepad++编辑文章front-matter</h3><p>在\source_posts路径下找到刚才创建的”文章名字.md”<br>用文本编辑工具（强势推荐notepad++，下载请自行百度）打开添加并自行修改front-matter，示例如下(注意每一项冒号后空格哟，另外，如果不是这个主题的hexo博客，可能部分front-matter设置方式不同，敬请留意)：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">title: 文章名字</div><div class="line">date: 2016-10-12 19:22:33 #（日期是hexo new 时自动生成的）</div><div class="line">tags: 帮助 #（文章标签，格式可以是[Hexo,总结]，中间用英文逗号分开）</div><div class="line">categories: hexo #文章分类</div><div class="line">description: belabelabela...#（首页默认显示文章摘要而非全文，可以在文章的front-matter中填写一项description:来设置你想显示的摘要，或者直接在文章内容中插入&lt;!--more--&gt;以隐藏后面的内容。若两者都未设置，则自动截取文章第一段作为摘要。）</div><div class="line">toc: true #(true/false 是否显示文章目录)</div><div class="line">comments: true #(true/false 是否支持评论)</div><div class="line">mathjax: true #(true/false 是否支持数学公式)</div></pre></td></tr></table></figure>
+<hr>
+<h3 id="3-利用cdm-markdown-编辑文章正文"><a href="#3-利用cdm-markdown-编辑文章正文" class="headerlink" title="3.利用cdm markdown 编辑文章正文"></a>3.利用cdm markdown 编辑文章正文</h3><p>OK，下面就开始编辑文章正文了，markdown编辑工具很多，个人使用<a href="https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown" target="_blank" rel="external">cdm markdown</a>，可在线编辑<br>语法也可参考个人博客<a href="">Cmd Markdown 简明语法手册（删减）</a>，整合实际对比</p>
+<h3 id="4-利用hexo命令生成网页，上传"><a href="#4-利用hexo命令生成网页，上传" class="headerlink" title="4.利用hexo命令生成网页，上传"></a>4.利用hexo命令生成网页，上传</h3><p>hexo generate #生成静态页面至public目录<br>hexo server #开启<a href="http://localhost:4000/" target="_blank" rel="external">预览访问端口</a>（网址<a href="http://localhost:4000/，&#39;ctrl" target="_blank" rel="external">http://localhost:4000/，&#39;ctrl</a> + c’关闭server,可以通过此命令本地化预览网页，没有问题再hexo deploy 部署）<br>hexo deploy #将.deploy目录部署到GitHub<br>部署成功的话，你就可以看看你自己的github page 网页啦！<br>祝好！</p>
+<p>PS：Hexo命令简写（不要怪我现在才说，看了原单词，现在不就理解记住缩写了）</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">hexo n == hexo new</div><div class="line">hexo g == hexo generate</div><div class="line">hexo s == hexo server</div><div class="line">hexo d == hexo deploy</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      hexo博客搭建完了，怎么发文章？看这里！
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://stephenxtech.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://stephenxtech.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cmd Markdown 简明语法手册（删减）</title>
+    <link href="http://stephenxtech.com/2016/10/12/Cmd%20Markdown%20%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C%EF%BC%88%E5%88%A0%E5%87%8F%EF%BC%89/"/>
+    <id>http://stephenxtech.com/2016/10/12/Cmd Markdown 简明语法手册（删减）/</id>
+    <published>2016-10-12T11:22:33.000Z</published>
+    <updated>2017-01-28T12:26:26.538Z</updated>
+    
+    <content type="html"><![CDATA[<hr>
+<h2 id="Cmd-Markdown-简明语法手册（删减）"><a href="#Cmd-Markdown-简明语法手册（删减）" class="headerlink" title="Cmd Markdown 简明语法手册（删减）"></a>Cmd Markdown 简明语法手册（删减）</h2><h3 id="1-斜体和粗体"><a href="#1-斜体和粗体" class="headerlink" title="1. 斜体和粗体"></a>1. 斜体和粗体</h3><p>使用 <em> 和 *</em> 表示斜体和粗体。<br>示例：</p>
+<pre><code>这是 *斜体*，这是 **粗体**。
+</code></pre><p>效果：这是 <em>斜体</em>，这是 <strong>粗体</strong>。</p>
+<p>斜体快捷键：（快捷键ctrl+i），粗体快捷键：（快捷键ctrl+b）</p>
+<h3 id="2-分级标题"><a href="#2-分级标题" class="headerlink" title="2. 分级标题"></a>2. 分级标题</h3><p>示例：</p>
+<pre><code># 这是一个一级标题
+
+## 这是一个二级标题
+
+### 这是一个三级标题
+</code></pre><p>效果：</p>
+<h1 id="这是一个一级标题"><a href="#这是一个一级标题" class="headerlink" title="这是一个一级标题"></a>这是一个一级标题</h1><h2 id="这是一个二级标题"><a href="#这是一个二级标题" class="headerlink" title="这是一个二级标题"></a>这是一个二级标题</h2><h3 id="这是一个三级标题"><a href="#这是一个三级标题" class="headerlink" title="这是一个三级标题"></a>这是一个三级标题</h3><hr>
+<h3 id="3-外链接"><a href="#3-外链接" class="headerlink" title="3. 外链接"></a>3. 外链接</h3><p>使用 [描述](链接地址) 为文字增加外链接。</p>
+<p>示例：</p>
+<pre><code>这是去往[本人博客](http://stephenxtech.com)的链接
+</code></pre><p>效果：<br>这是去往<a href="http://stephenxtech.com">本人博客</a>的链接</p>
+<h3 id="4-无序列表"><a href="#4-无序列表" class="headerlink" title="4. 无序列表"></a>4. 无序列表</h3><p>使用 *，+，- 表示无序列表。</p>
+<p>示例：</p>
+<pre><code>（首行留空，否则无效果）    
+ - 列表项
+ - 无序列表项 一
+ - 无序列表项 二
+ - 无序列表项 三
+</code></pre><p>效果：</p>
+<ul>
+<li>列表项</li>
+<li>无序列表项 一</li>
+<li>无序列表项 二</li>
+<li>无序列表项 三<h3 id="5-有序列表"><a href="#5-有序列表" class="headerlink" title="5. 有序列表"></a>5. 有序列表</h3></li>
+</ul>
+<p>使用数字和点表示有序列表。</p>
+<p>示例：</p>
+<ol>
+<li>有序列表项 一</li>
+<li>有序列表项 二</li>
+<li>有序列表项 三</li>
+</ol>
+<h3 id="6-文字引用"><a href="#6-文字引用" class="headerlink" title="6. 文字引用"></a>6. 文字引用</h3><p>使用 &gt; 表示文字引用。</p>
+<p>示例：</p>
+<blockquote>
+<p>野火烧不尽，春风吹又生</p>
+</blockquote>
+<p>效果：</p>
+<blockquote>
+<p>野火烧不尽，春风吹又生</p>
+</blockquote>
+<h3 id="7-行内代码块"><a href="#7-行内代码块" class="headerlink" title="7. 行内代码块"></a>7. 行内代码块</h3><p>使用 `代码` 表示行内代码块。</p>
+<p>示例：</p>
+<pre><code>让我们聊聊 `html`。
+</code></pre><p>效果：<br>让我们聊聊 <code>html</code>。</p>
+<h3 id="8-代码块"><a href="#8-代码块" class="headerlink" title="8.  代码块"></a>8.  代码块</h3><p>使用 四个缩进空格 表示代码块。</p>
+<p>示例：<br>这是一个代码块，此行左侧有四个不可见的空格。<br>效果：</p>
+<pre><code>这是一个代码块，此行左侧有四个不可见的空格。
+</code></pre><h3 id="9-插入图像"><a href="#9-插入图像" class="headerlink" title="9.  插入图像"></a>9.  插入图像</h3><p>使用 ![描述](图片链接地址) 插入图像。</p>
+<p>示例：</p>
+<pre><code>![我的头像](https://www.zybuluo.com/static/img/my_head.jpg)
+</code></pre><p>效果：<br><img src="https://www.zybuluo.com/static/img/my_head.jpg" alt="我的头像"></p>
+<h1 id="Cmd-Markdown-高阶语法手册"><a href="#Cmd-Markdown-高阶语法手册" class="headerlink" title="Cmd Markdown 高阶语法手册"></a>Cmd Markdown 高阶语法手册</h1><h3 id="1-内容目录"><a href="#1-内容目录" class="headerlink" title="1. 内容目录"></a>1. 内容目录</h3><p>在段落中填写 <code>[TOC]</code> 以显示全文内容的目录结构。<br>效果：</p>
+<p>[TOC]</p>
+<h3 id="3-删除线"><a href="#3-删除线" class="headerlink" title="3. 删除线"></a>3. 删除线</h3><p><del>删除线好有意思啊</del><br>使用 ~~ 表示删除线。<br>示例：</p>
+<pre><code>~~这是一段错误的文本。~~
+</code></pre><p>效果：<br><del>这是一段错误的文本。</del></p>
+<h3 id="5-LaTeX-公式"><a href="#5-LaTeX-公式" class="headerlink" title="5. LaTeX 公式"></a>5. LaTeX 公式</h3><p>表示行内公式：<br>示例</p>
+<pre><code>质能守恒方程可以用一个很简洁的方程式 $E=mc^2$ 来表达。
+</code></pre><p>效果：<br>质能守恒方程可以用一个很简洁的方程式 $E=mc^2$ 来表达。</p>
+<p>表示整行公式：</p>
+<pre><code>$$\sum_{i=1}^n a_i=0$$
+
+$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$
+
+$$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
+</code></pre><p>效果：<br>$$\sum_{i=1}^n a_i=0$$<br>$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x<em>n^2 $$<br>$$\sum^{j-1}</em>{k=0}{\widehat{\gamma}_{kj} z_k}$$</p>
+<p>访问 <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="external">MathJax</a> 参考更多使用方法。</p>
+<h3 id="6-加强的代码块"><a href="#6-加强的代码块" class="headerlink" title="6. 加强的代码块"></a>6. 加强的代码块</h3><p>支持四十一种编程语言的语法高亮的显示，行号显示。</p>
+<p>非代码示例：</p>
+<pre><code><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ sudo apt-get install vim-gnome</div></pre></td></tr></table></figure>
+</code></pre><p>效果：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ sudo apt-get install vim-gnome</div></pre></td></tr></table></figure></p>
+<p>Python 示例：</p>
+<pre><code><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line"><span class="meta">@requires_authorization</span></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">somefunc</span><span class="params">(param1=<span class="string">''</span>, param2=<span class="number">0</span>)</span>:</span></div><div class="line">    <span class="string">'''A docstring'''</span></div><div class="line">    <span class="keyword">if</span> param1 &gt; param2: <span class="comment"># interesting</span></div><div class="line">        <span class="keyword">print</span> <span class="string">'Greater'</span></div><div class="line">    <span class="keyword">return</span> (param2 - param1 + <span class="number">1</span>) <span class="keyword">or</span> <span class="keyword">None</span></div><div class="line"></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">SomeClass</span>:</span></div><div class="line">    <span class="keyword">pass</span></div><div class="line"></div><div class="line"><span class="meta">&gt;&gt;&gt; </span>message = <span class="string">'''interpreter</span></div><div class="line"><span class="meta">... </span>prompt'''</div></pre></td></tr></table></figure>
+</code></pre><p>效果：<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="meta">@requires_authorization</span></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">somefunc</span><span class="params">(param1=<span class="string">''</span>, param2=<span class="number">0</span>)</span>:</span></div><div class="line">    <span class="string">'''A docstring'''</span></div><div class="line">    <span class="keyword">if</span> param1 &gt; param2: <span class="comment"># interesting</span></div><div class="line">        <span class="keyword">print</span> <span class="string">'Greater'</span></div><div class="line">    <span class="keyword">return</span> (param2 - param1 + <span class="number">1</span>) <span class="keyword">or</span> <span class="keyword">None</span></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">SomeClass</span>:</span></div><div class="line">    <span class="keyword">pass</span></div><div class="line"><span class="meta">&gt;&gt;&gt; </span>message = <span class="string">'''interpreter</span></div><div class="line"><span class="meta">... </span>prompt'''</div></pre></td></tr></table></figure></p>
+<h3 id="12-表格支持"><a href="#12-表格支持" class="headerlink" title="12. 表格支持"></a>12. 表格支持</h3><p>示例：<br>    | 项目        | 价格   |  数量  |<br>    | ——–   | —–:  | :—-:  |<br>    | 计算机     | \$1600 |   5     |<br>    | 手机        |   \$12   |   12   |<br>    | 管线        |    \$1    |  234  |</p>
+<p>效果：<br>| 项目        | 价格   |  数量  |<br>| ——–   | —–:  | :—-:  |<br>| 计算机     | \$1600 |   5     |<br>| 手机        |   \$12   |   12   |<br>| 管线        |    \$1    |  234  |</p>
+<h3 id="15-内嵌图标"><a href="#15-内嵌图标" class="headerlink" title="15. 内嵌图标"></a>15. 内嵌图标</h3><p>本站的图标系统对外开放，在文档中输入</p>
+<pre><code>&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;
+</code></pre><p>即显示微博的图标： <i class="icon-weibo icon-2x"></i></p>
+<p>替换 上述 <code>i 标签</code> 内的 <code>icon-weibo</code> 以显示不同的图标，例如：</p>
+<pre><code>&lt;i class=&quot;icon-renren&quot;&gt;&lt;/i&gt;
+</code></pre><p>即显示人人的图标： <i class="icon-renren icon-2x"></i></p>
+<p>更多的图标和玩法可以参看 <a href="http://fortawesome.github.io/Font-Awesome/3.2.1/icons/" target="_blank" rel="external">font-awesome</a> 官方网站。</p>
+<h3 id="16-待办事宜-Todo-列表"><a href="#16-待办事宜-Todo-列表" class="headerlink" title="16. 待办事宜 Todo 列表"></a>16. 待办事宜 Todo 列表</h3><p>使用带有 [ ] 或 [x] （未完成或已完成）项的列表语法撰写一个待办事宜列表，并且支持子列表嵌套以及混用Markdown语法，例如：</p>
+<pre><code>- [ ] **Cmd Markdown 开发**
+    - [ ] 改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率
+    - [ ] 支持以 PDF 格式导出文稿
+    - [x] 新增Todo列表功能 [语法参考](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
+    - [x] 改进 LaTex 功能
+        - [x] 修复 LaTex 公式渲染问题
+        - [x] 新增 LaTex 公式编号功能 [语法参考](http://docs.mathjax.org/en/latest/tex.html#tex-eq-numbers)
+- [ ] **七月旅行准备**
+    - [ ] 准备邮轮上需要携带的物品
+    - [ ] 浏览日本免税店的物品
+    - [x] 购买蓝宝石公主号七月一日的船票
+</code></pre><p>对应显示如下待办事宜 Todo 列表：</p>
+<ul>
+<li>[ ] <strong>Cmd Markdown 开发</strong><ul>
+<li>[ ] 改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率</li>
+<li>[ ] 支持以 PDF 格式导出文稿</li>
+<li>[x] 新增Todo列表功能 <a href="https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments" target="_blank" rel="external">语法参考</a></li>
+<li>[x] 改进 LaTex 功能<ul>
+<li>[x] 修复 LaTex 公式渲染问题</li>
+<li>[x] 新增 LaTex 公式编号功能 <a href="http://docs.mathjax.org/en/latest/tex.html#tex-eq-numbers" target="_blank" rel="external">语法参考</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>[ ] <strong>七月旅行准备</strong><ul>
+<li>[ ] 准备邮轮上需要携带的物品</li>
+<li>[ ] 浏览日本免税店的物品</li>
+<li>[x] 购买蓝宝石公主号七月一日的船票</li>
+</ul>
+</li>
+</ul>
+<p>PS：以上修改自作业部落<a href="http://docs.mathjax.org/en/latest/tex.html#tex-eq-numbers" target="_blank" rel="external">Cmd Markdown 简明语法手册</a>，仅个人记录喜好</p>
+]]></content>
+    
+    <summary type="html">
+    
+      markdown文本编辑利器，简明语法手册，依据个人喜好有所修改，增加示例对比
+    
+    </summary>
+    
+      <category term="add" scheme="http://stephenxtech.com/categories/add/"/>
+    
+    
+      <category term="markdown" scheme="http://stephenxtech.com/tags/markdown/"/>
+    
+  </entry>
+  
+</feed>
